@@ -332,6 +332,9 @@ export default function Home(): JSX.Element {
             <a href={appHref} className="transition hover:text-white">
               Twitter
             </a>
+            <Link href="/support" className="transition hover:text-white">
+              Support
+            </Link>
             <Link href="/terms" className="transition hover:text-white">
               Terms
             </Link>
