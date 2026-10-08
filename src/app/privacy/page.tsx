@@ -143,10 +143,10 @@ export default function PrivacyPage(): JSX.Element {
                 If you have any questions or concerns about this Privacy Policy, please contact us at:{" "}
                 <strong className="font-semibold">
                   <a
-                    href="mailto:support@herokit.app"
+                    href="mailto:vakulenkoworks@gmail.com"
                     className="text-[#ffd700] underline decoration-[#ffd700]/40 underline-offset-2 transition hover:decoration-[#ffd700]"
                   >
-                    support@herokit.app
+                    vakulenkoworks@gmail.com
                   </a>
                 </strong>
               </p>
